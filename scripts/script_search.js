@@ -1,8 +1,8 @@
 // Jun Hao Own Hosting
-//var host = "https://cjh-backend-ca2.herokuapp.com";
+var host = "https://cjh-backend-ca2.herokuapp.com";
 
 // Default Cher Hosting
-var host = "https://ades-2b01.herokuapp.com";
+//var host = "https://ades-2b01.herokuapp.com";
 
 var arr;
 $(document).on('submit', 'form.searchCompany', function (e) {

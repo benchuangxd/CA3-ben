@@ -2,9 +2,7 @@
 //var host = "https://cjh-backend-ca2.herokuapp.com";
 
 // Default Cher Hosting
-//var host = "https://ades-2b01.herokuapp.com/";
-
-var host = "http://localhost:8080"
+var host = "https://ades-2b01.herokuapp.com";
 
 var arr;
 $(document).on('submit', 'form.searchCompany', function (e) {
